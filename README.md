@@ -1,5 +1,8 @@
 # test-stuff
 
+![TravisCI](https://travis-ci.org/irzref/test-stuff.svg?branch=master) 
+![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=alert_status)
+
 ### Prerequisites
 
 install python2.7
