@@ -1,0 +1,7 @@
+organization=irzref-github
+projectKey=irzref_test-stuff
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.21686
+dashboardUrl=https://sonarcloud.io/dashboard?id=irzref_test-stuff
+ceTaskId=AWjI-9Cu1T0eadXyTW_Q
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWjI-9Cu1T0eadXyTW_Q
