@@ -1,6 +1,5 @@
 language: python
 python:
   - "2.7"
-install:
-  - pip install random2
-  
+script:
+  - python dsl.py example.dsl
