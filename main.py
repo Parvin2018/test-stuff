@@ -43,7 +43,7 @@ def number_to_name(number):
 
 
 def uplay():
-    player_choice = raw_input("Enter : ")
+    player_choice = raw_input("Enter (rock, spock, paper, lizard, scissors): ")
     # print out the message for the player's choice
     print "Player chooses %s" % player_choice
     # convert the player's choice to player_number using the function name_to_number()
